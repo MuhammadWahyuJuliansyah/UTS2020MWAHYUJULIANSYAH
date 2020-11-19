@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686362707670",
+    "firebase_url": "https://utswahyujuliansyah.firebaseio.com",
+    "project_id": "utswahyujuliansyah",
+    "storage_bucket": "utswahyujuliansyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686362707670:android:0256bed06d0096e132eb77",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500002_mwahyujuliansyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686362707670-2msgaurt3ptoed19q8rel1ls37oofogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdmH159D07XTSr-I46QqHgDq6RQt7YAD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686362707670-2msgaurt3ptoed19q8rel1ls37oofogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
